@@ -1,14 +1,11 @@
 header{
     background-color: blue;
-    font-family: Impact;
-    font-size: 80px;
-    text-align: center;
-    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
 }
 body {
     background-color: red;
-    width: 70%;
-    margin: auto;
+    
 }
 footer{
     background-color: green;
