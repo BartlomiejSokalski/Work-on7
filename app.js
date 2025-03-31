@@ -1,5 +1,5 @@
-const tylek = document.getElementById("dupa");
+const kontaktBtn = document.getElementById("kontaktBtn");
 
- tylek.onclick = function(){
-    alert("dupa")
- }
+kontaktBtn.onclick = function () {
+    alert("Dziękuję za zainteresowanie! Napisz do mnie na jan@example.com 📬");
+};
